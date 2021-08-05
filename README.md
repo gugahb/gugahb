@@ -20,3 +20,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCX0AO-DPgGDzpe99i4bl5EQ)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://informacaotech.com)
+
+---
+
+[website]: https://gustavo.tec.br
+[blog]: http://informacaotech.com
+[twitter]: https://twitter.com/gugahb
+[youtube]: https://youtube.com/gugahb
+[instagram]: https://instagram.com/gugahb
+[linkedin]: https://linkedin.com/in/gugahb
