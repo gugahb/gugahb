@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Website](https://img.shields.io/website?label=gustavo.tec.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gustavo.tec.br)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgugahb&screen_name=gugahb)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gugahb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgugahb&screen_name=gugahb)
 
 - 🔭 I’m currently working on Canção Nova - Head of Development & Project Manager IT
 - 🌱 I’m currently learning TypeScript / NodeJS / NextJS / NestJS / ReactNative / ReactJS
