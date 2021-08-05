@@ -18,11 +18,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Comunicação na Gestão de projetos, o que você usa?](https://www.youtube.com/watch?v=QBdbBri7mSk)
-- [Cuidado com as promessas de dinheiro fácil na bolsa de valores](https://www.youtube.com/watch?v=p38BtvWeCNI)
-- [Entrevista Gustavo Borges Canção Nova Notícias 09/04/2020](https://www.youtube.com/watch?v=62NqZIgnePg)
-- [Seu botão do IGTV sumiu do Instagram?](https://www.youtube.com/watch?v=1n_bJVlAtQs)
-- [Dicas trabalho homeoffice](https://www.youtube.com/watch?v=ULxqLaXimD4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCX0AO-DPgGDzpe99i4bl5EQ)
@@ -32,11 +27,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adicionar o botão do Whatsapp no seu site sem plugin e sem imagem](https://informacaotech.com/adicionar-o-botao-do-whatsapp-no-seu-site-sem-plugin-e-sem-imagem/)
-- [Whatsapp irá permitir alterar qualidade da imagem compartilhada](https://informacaotech.com/whatsapp-ira-permitir-alterar-qualidade-da-imagem-compartilhada/)
-- [Criando seu próprio gerador de senhas com Python](https://informacaotech.com/criando-seu-proprio-gerador-de-senhas-com-python/)
-- [Sites para aprender a programar](https://informacaotech.com/sites-para-aprender-a-programar/)
-- [Executando uma aplicação Next.js com pm2 e yarn no ubuntu server.](https://informacaotech.com/executando-uma-aplicacao-next-js-com-pm2-e-yarn-no-ubuntu-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://informacaotech.com)
