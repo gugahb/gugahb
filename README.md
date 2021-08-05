@@ -18,6 +18,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Comunicação na Gestão de projetos, o que você usa?](https://www.youtube.com/watch?v=QBdbBri7mSk)
+- [Cuidado com as promessas de dinheiro fácil na bolsa de valores](https://www.youtube.com/watch?v=p38BtvWeCNI)
+- [Entrevista Gustavo Borges Canção Nova Notícias 09/04/2020](https://www.youtube.com/watch?v=62NqZIgnePg)
+- [Seu botão do IGTV sumiu do Instagram?](https://www.youtube.com/watch?v=1n_bJVlAtQs)
+- [Dicas trabalho homeoffice](https://www.youtube.com/watch?v=ULxqLaXimD4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCX0AO-DPgGDzpe99i4bl5EQ)
