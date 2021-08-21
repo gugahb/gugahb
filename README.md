@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Em quanto tempo você consegue digitar o alfabeto?](https://informacaotech.com/em-quanto-tempo-voce-consegue-digitar-o-alfabeto/)
 - [Animação com scroll, JavaScript, CSS e HTML](https://informacaotech.com/animacao-com-scroll-javascript-css-e-html/)
 - [Adicionar o botão do Whatsapp no seu site sem plugin e sem imagem](https://informacaotech.com/adicionar-o-botao-do-whatsapp-no-seu-site-sem-plugin-e-sem-imagem/)
 - [Whatsapp irá permitir alterar qualidade da imagem compartilhada](https://informacaotech.com/whatsapp-ira-permitir-alterar-qualidade-da-imagem-compartilhada/)
 - [Criando seu próprio gerador de senhas com Python](https://informacaotech.com/criando-seu-proprio-gerador-de-senhas-com-python/)
-- [Sites para aprender a programar](https://informacaotech.com/sites-para-aprender-a-programar/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://informacaotech.com)
