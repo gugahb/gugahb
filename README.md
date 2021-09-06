@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 sites para você usar fontes gratuítas para seus projetos](https://informacaotech.com/3-sites-para-voce-usar-fontes-gratuitas-para-seus-projetos/)
 - [Como usar dois Whatsapp no mesmo telefone só com aplicativos oficiais](https://informacaotech.com/como-usar-dois-whatsapp-no-mesmo-telefone-so-com-aplicativos-oficiais/)
 - [Conhecendo um pouco e como usar e as propriedades do Box shadow](https://informacaotech.com/conhecendo-um-pouco-e-como-usar-e-as-propriedades-do-box-shadow/)
 - [Cuidado com os aplicativos que dizem exibir quem viu seu whastapp](https://informacaotech.com/cuidado-com-os-aplicativos-que-dizem-exibir-quem-viu-seu-whastapp/)
 - [As bandeiras do mundo como imagens licenciadas em código aberto](https://informacaotech.com/as-bandeiras-do-mundo-como-imagens-licenciadas-em-codigo-aberto/)
-- [62 trilhões de casas decimais é o novo recorde no cálculo do pi](https://informacaotech.com/62-trilhoes-de-casas-decimais-e-o-novo-recorde-no-calculo-do-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://informacaotech.com)
